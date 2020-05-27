@@ -9,6 +9,15 @@ speaker notes on the side. Slides can be separated with a divider: ---.
 
 ---
 
+# Video
+
+Watch the following video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d9YbO6P4AdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
 # This is a slide
 
 ```r
