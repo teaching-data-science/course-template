@@ -28,6 +28,14 @@ Hello world
 
 Notes: Some more notes go here
 
+
+---
+
+# Slide with maths
+
+\\( f(x) = \lambda \\)
+
+
 ---
 
 # Let's practice!
@@ -37,3 +45,6 @@ libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
 commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
 semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
 velit nec, consectetur placerat enim.
+
+
+
