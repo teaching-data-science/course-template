@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 2: More stuff'
+title: 'Chapter 2: Learners'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+ 'This chapter will teach about learners'
 prev: /chapter1
 next: null
 type: chapter
