@@ -5,6 +5,7 @@ import SEO from './seo'
 import { Link } from './link'
 import { H3 } from './typography'
 import Logo from '../../static/logo.svg'
+import { LocaleContext } from '../context'
 
 import '../styles/index.sass'
 import classes from '../styles/layout.module.sass'
