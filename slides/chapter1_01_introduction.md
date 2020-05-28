@@ -4,14 +4,14 @@ type: slides
 
 # Introduction
 
+Maybe we want
+
 Notes: Text at the end of a slide prefixed like this will be displayed as
 speaker notes on the side. Slides can be separated with a divider: ---.
 
 ---
 
 # Video
-
-Watch the following video:
 
 <iframe width="70%" height="70%" src="https://www.youtube.com/embed/d9YbO6P4AdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,13 +20,13 @@ Watch the following video:
 
 # Slides
 
-Here are the slides:
-
-<object data="pdfs/slides-evaluation-intro.pdf" type="application/pdf" style="width:100%;height:100%">
+<object data="pdfs/slides-evaluation-intro.pdf" type="application/pdf" style="width:80%;height:80%">
     <embed src="pdfs/slides-evaluation-intro.pdf" type="application/pdf" />
 </object>
 
-# This is a slide with some code
+---
+
+# This is a slide with some further information
 
 ```r
 # Print something
@@ -48,7 +48,7 @@ Notes: Some more notes go here
 
 ---
 
-# Slide with maths
+# Slide with furtherer information
 
 \\( f(x) = \lambda \\)
 
@@ -57,11 +57,6 @@ Notes: Some more notes go here
 
 # Let's practice!
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
-
+Notes: not sure if we really need notes
 
 
