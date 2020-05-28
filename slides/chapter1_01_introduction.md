@@ -13,12 +13,20 @@ speaker notes on the side. Slides can be separated with a divider: ---.
 
 Watch the following video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d9YbO6P4AdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="80%" height="808" src="https://www.youtube.com/embed/d9YbO6P4AdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
 
-# This is a slide
+# Slides
+
+Here are the slides:
+
+<object data="pdfs/slides-evaluation-intro.pdf" type="application/pdf" style="width:100%;height:100%">
+    <embed src="pdfs/slides-evaluation-intro.pdf" type="application/pdf" />
+</object>
+
+# This is a slide with some code
 
 ```r
 # Print something
