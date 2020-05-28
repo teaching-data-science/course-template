@@ -1,7 +1,7 @@
 # Online course starter: R
 
 This is a starter repo based on the
-[course framework](https://github.com/ines/spacy-course) I developed for my
+[course framework](https://github.com/ines/spacy-course) @ines developed for her
 [spaCy course](https://course.spacy.io). The front-end is powered by
 [Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the
 back-end code execution uses [Binder](https://mybinder.org) 💖
@@ -42,9 +42,6 @@ on Windows and Mac you may need to use `yarn` instead of `npm`.
 You can alo [run the app using Docker](https://ines.github.io/course-starter-python/#creating-your-website-without-installing-dependencies-using-docker-compose).
 
 ## 💡Introduction
-
-> This section was contributed by [@laderast](https://github.com/laderast).
-> Thanks! ✨
 
 ### How does this repo work?
 
@@ -436,3 +433,4 @@ the solution code.
 
 For more details on how it all works behind the scenes, see
 [the original course repo](https://github.com/ines/spacy-course).
+Further docs can be found in the [python course template](https://ines.github.io/course-starter-python/#creating-your-website-without-installing-dependencies-using-docker-compose).
