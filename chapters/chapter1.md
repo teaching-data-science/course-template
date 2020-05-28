@@ -22,7 +22,13 @@ id: 1
 
 </exercise>
 
-<exercise id="3" title="Quiz">
+<exercise id="3" title="Demo">
+
+<iframe width="100%" height="480" src="https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/2.1-a-first-look-at-a-neural-network.nb.html"></iframe>
+
+</exercise>
+
+<exercise id="4" title="Quiz">
 
 Let's ask some questions about the slides. Who is the smartest PostDoc?
 
@@ -48,7 +54,7 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="4" title="Coding">
+<exercise id="5" title="Coding">
 
 
 <codeblock id="01_03">
