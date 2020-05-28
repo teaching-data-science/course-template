@@ -13,7 +13,6 @@ might be ways to make it more elegant._
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/teaching-data-science/course-template)
 
-<!-- [![](https://user-images.githubusercontent.com/13643239/56341448-68fe9380-61b5-11e9-816f-5c71ae71b94f.png)](https://course-starter-r.netlify.com) >
 
 ## ✅ Quickstart
 
@@ -39,6 +38,8 @@ npm install -g gatsby-cli  # Install Gatsby globally
 npm install                # Install dependencies
 npm run dev                # Run the development server
 ```
+on Windows and Mac you may need to use `yarn` instead of `npm`. 
+You can alo [run the app using Docker](https://ines.github.io/course-starter-python/#creating-your-website-without-installing-dependencies-using-docker-compose).
 
 ## 💡Introduction
 
